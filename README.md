@@ -2,12 +2,9 @@
 
 - my name is neo
 - currently learning to code C# and Lua
-- this account is used for both private and educational purposes!
-  
-- *reachable through discord @nnneeeoo*
+- this account is used for both private and educational purposes
 
-![C#](https://shields.io)
-![Lua](https://shields.io)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 <!--
 **nneeeoo/nneeeoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
