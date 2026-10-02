@@ -1,8 +1,13 @@
 ## hi! ✦
 
 - my name is neo
-- currently learning C# and Lua
-- this account is used for both private and educational purposes! 
+- currently learning to code C# and Lua
+- this account is used for both private and educational purposes!
+  
+- *reachable through discord @nnneeeoo*
+
+![C#](https://shields.io)
+![Lua](https://shields.io)
 <!--
 **nneeeoo/nneeeoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
